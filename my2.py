@@ -1,0 +1,103 @@
+import os
+from time import sleep
+from pyrogram.errors import FloodWait
+from pyrogram import Client, filters, types, errors
+from pyrogram.types import ChatPermissions
+import time
+
+
+
+app = Client(''my_account'')
+
+
+
+#все логины
+logins = ["just_eblan", "bebra2", "a"]
+
+#все пароли
+passwd = ["123", "bebra2", "b"]
+@app.on_message(filters.command("oxymoron", prefixes=".") & filters.me)
+    def valentine(app, msg):
+        app.send_message(msg.chat.id, f'''<b>ГОВНО>''')
+        sleep(1.0)
+        app.send_message(msg.chat.id,f'''<b> ЗАЛУПА</b>''')
+        sleep(1.0)
+        app.send_message(msg.chat.id,f'''<b>ПЕНИС</b>''')
+        sleep(1.0)
+        app.send_message(msg.chat.id,f'''<b>ХЕР</b>''')
+        sleep(1.0)
+        app.send_message(msg.chat.id,f'''<b>ДАВАЛКА</b>''')
+        sleep(1.0)
+        app.send.message(msg.chat.id,f'''<b>ХУЙ</b>''')
+        sleep(1.0)
+        app.send_message(msg.chat.id,f'''<b>БЛЯДИНА</b>''')
+        sleep(1.0)
+        app.send_message(msg.chat.id,f'''<b>ГОЛОВКА</b>''')
+        sleep(1.0)
+        app.send_message(msg.chat.id,f'''<b>ШЛЮХА</b>''')
+        sleep(1.0)
+        app.send_message(msg.chat.id,f'''<b>ЖОПА</b>''')
+        sleep(1.0)
+        app.send_message(msg.chat.id,f'''<b>ЧЛЕН</b>''')
+        sleep(1.0)
+        app.send_message(msg.chat.id,f'''<b>ЕБЛАН</b>''')
+        sleep(1.0)
+       app.send_message(msg.chat.id,f'''<b>ПЕТУХ</b>''')
+       sleep(1.0)
+       app.send_message(msg.chat.id,f'''<b>МУДИЛА</b>''')
+       sleep(1.0)
+       app.send_message(msg.chat.id,f'''<b>РУКОБЛУД</b>''')
+       sleep(1.0)
+       app.send_message(msg.chat.id,f'''<b>ССАНИНА</b>''')
+       sleep(1.0)
+       app.send_message(msg.chat.id,f'''<b>ОЧКО</b>''')
+       sleep(1.0)
+       app.send_message(msg.chat.id,f'''<b>БЛЯДУН</b>''')
+       sleep(1.0)
+       app.send_message(msg.chat.id,f'''<b>(ВАГИНА</b>''')
+       sleep(1.0)
+       app.send_message(msg.chat.id,f'''<b>СУКА</b>/''')
+       sleep(1.0)
+       app.send_message(msg.chat.id,f'''<b>ЕБЛАНИЩЕ</b>''')
+       sleep(1.0)
+       app.send_message(msg.chat.id,f'''<b>ВЛАГАЛИЩЕ</b>''')
+       sleep(1.0)
+       app.send_message(msg.chat.id,f'''<b>ПЕРДУН</b>''')
+       sleep(1.0)
+       app.send_message(msg.chat.id,f'''<b>ДРОЧИЛА</b>''')
+       sleep(1.0)
+       app.send_message(msg.chat.id,f'''<b>ПИДОР</b>''')
+       sleep(1.0)
+       app.send_message(msg.chat.id,f'''<b>ПИЗДА</b>''')
+       sleep(1.0)
+       app.send_message(msg.chat.id,f'''<b>ТУЗ</b>''')
+       sleep(1.0)
+       app.send_message(msg.chat.id,f'''<b>МАЛАФЬЯ</b>''')
+       sleep(1.0)
+       app.send_message(msg.chat.id,f'''<b>ГОМИК</b>''')
+       sleep(1.0)
+       app.send_message(msg.chat.id,f'''<b>МУДИЛА</b>''')
+       sleep(1.0)
+       app.send_message(msg.chat.id,f'''<b>ПИЛОТКА</b>''')
+       sleep(1.0)
+       app.send_message(msg.chat.id,f'''<b>МАНДА</b>''')
+       sleep(1.0)
+       app.send_message(msg.chat.id,f'''<b>АНУС</b>''')
+       sleep(1.0)
+       app.send_message(msg.chat.id,f'''<b>ВАГИНА</b>''')
+       sleep(1.0)
+       app.send_message(msg.chat.id,f'''<b>ПУТАНА</b>''')
+       sleep(1.0)
+       app.send_message(msg.chat.id,f'''<b>ПЕДРИЛА</b>''')
+       sleep(1.0)
+       app.send_message(msg.chat.id,f'''<b>ШАЛАВА</b>''')
+       sleep(1.0)
+       app.send_message(msg.chat.id,f'''<b>ХУИЛА</b>''')
+       sleep(1.0)
+       app.send_message(msg.chat.id,f'''<b>МОШОНКА</b>''')
+       sleep(1.0)
+       app.send_message(msg.chat.id,f'''<b>ЕЛДА</b>''')
+       sleep(1.0)
+       app.send_message(msg.chat.id,f'''<b>РАУНД!!</b>''')
+       sleep(1.0)
+       
